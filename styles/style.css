@@ -61,10 +61,10 @@ a {
 .banner-image-box {
   position: relative;
   background: #000;
-  background-image: url('../images/9962233c4438b930281c23576eabffa5.jpg');
-  background-position: center center; /* Tasvir markazda va pastda */
+  background-image: url('../images/2bc2a77eae32fe9bb2f4bf3e57211238.jpg');
+  background-position: center bottom; /* Tasvir markazda va pastda */
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 350px;
   margin: 56px 0;
   border-radius: 32px;
   height: 800px;
